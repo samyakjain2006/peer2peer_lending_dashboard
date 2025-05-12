@@ -37,26 +37,25 @@ Each feature is available through a structured and simple UI using HTML, CSS, an
 ## 📁 Folder Structure
 
 Peer2PeerLending/
-├── index.php
-├── /assets/
-│ └── style.css
-├── /pages/
-│ ├── dashboard.php
-│ ├── new_user.php
-│ ├── new_loan.php
-│ ├── make_payment.php
-│ ├── loan_history.php
-│ ├── overdue_alerts.php
-│ └── reliability_scores.php
-├── /backend/
-│ ├── db.php
-│ ├── insert_user.php
-│ ├── insert_loan.php
-│ ├── insert_payment.php
-│ ├── check_overdue.php
-│ └── calculate_score.php
-└── README.md
-
+  -index.php
+  -README.md
+  - assets/
+      - style.css
+  - pages/
+      - dashboard.php
+      - new_user.php
+      - new_loan.php
+      - make_payment.php
+      - loan_history.php
+      - overdue_alerts.php
+      - reliability_scores.php
+  - backend/
+      - db.php
+      - insert_user.php
+      - insert_loan.php
+      - insert_payment.php
+      - check_overdue.php
+      - calculate_score.php
 
 ---
 
